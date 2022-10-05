@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4e864e8-ab81-44a2-9c24-c17ff56ae3da" name="Changes" comment="A class file and metafiles added.">
       <change afterPath="$PROJECT_DIR$/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task.java" afterDir="false" />
     </list>
@@ -40,21 +40,7 @@
     "last_opened_file_path": "C:/Users/Ex/IdeaProjects/electronic-watch/src/main/java/com/epam/rd/autotasks/meetautocode/ElectronicWatch.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task" />
-      <module name="AQA_Kulachenko_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="AQA_Kulachenko_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="iii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iii" />
       <module name="AQA_Kulachenko_Java" />
@@ -71,8 +57,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.iii" />
       </list>
