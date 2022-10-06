@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AQA_Kulachenko_Java:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e864e8-ab81-44a2-9c24-c17ff56ae3da" name="Changes" comment="Files with classes updated." />
+    <list default="true" id="f4e864e8-ab81-44a2-9c24-c17ff56ae3da" name="Changes" comment="Task 4 added.">
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA_Kulachenko_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AQA_Kulachenko_Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA_Kulachenko_Java/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AQA_Kulachenko_Java/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA_Kulachenko_Java/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA_Kulachenko_Java/Task3.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +47,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Ex/IdeaProjects/test/src/main/java/org/example/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Ex/IdeaProjects/test/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Task">
@@ -103,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665015497776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 4 added.">
+      <created>1665022399030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665022399030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +147,8 @@
     <MESSAGE value="A class file and metafiles added." />
     <MESSAGE value="Files with classes uploaded." />
     <MESSAGE value="Files with classes updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Files with classes updated." />
+    <MESSAGE value="Task 4 added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
